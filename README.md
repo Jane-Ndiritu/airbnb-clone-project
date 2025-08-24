@@ -33,3 +33,20 @@ Identifying the design properties of a mock-up design is important because it cl
 6.DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
 7.Product Owner	Defines requirements, prioritizes features, represents stakeholders
 8.Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
+# UI Component Patterns
+## Planned components
+### Navbar
+*Logo
+*Search bar
+*User navigation
+*Responsive menu
+### Property card
+*Property image
+*Basic details (price, location, rating)
+*Favorite button
+*Responsive layout
+### Footer
+*Site links
+*Company information
+*Social media links
+*Copyright information
